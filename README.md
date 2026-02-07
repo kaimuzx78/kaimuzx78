@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="mailto:kaimuddin78652@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/mansoori-kaeemuddin-3708671a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/kaimuzx78">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -32,44 +32,33 @@
 
 ### 📌 Projects
 **🏥 Medical Store Management System**  
-Full-stack project using **ReactJS + Django + SQLite3** with CRUD APIs & responsive UI.
+Full-stack project using **ReactJS + Django + SQLite3** with CRUD APIs.
 
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaimuzx78&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kaimuzx78&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaimuzx78&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaimuzx78&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
 ### 🪄 Most Used Languages
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimuzx78&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaimuzx78&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🎨 Hobbies & Interests
 - 📚 Reading tech blogs & developer articles  
-- 🎥 Creating **beginner-friendly tech content** on YouTube  
+- 🎥 Creating beginner-friendly tech content on YouTube  
 - 🧪 Experimenting with new tools & frameworks  
+- 📱 Exploring **Android reverse engineering**
+- 🛡️ Learning **ethical hacking & cybersecurity**
 - 🚀 Exploring modern web & backend technologies  
 
 ---
-
-<p align="center"><i>"Write code that humans can understand, not just machines."</i></p>
 
 <h3 align="center">⭐️ From <a href="https://github.com/kaimuzx78">Mansoori Kaeemuddin</a></h3>
