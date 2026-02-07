@@ -1,101 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mansoori Kaeemuddin</h1>
-<h3 align="center">Aspiring Software Developer | Java & Web Technologies</h3>
+<h1 align="center">Hey 👋 I'm Mansoori Kaeemuddin</h1>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
 
----
-
-### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:kaimuddin78652@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/kaimuzx78" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/kaimuzx78">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 **B.Sc. IT Graduate (University of Mumbai, 2025)**
-- 💻 Aspiring **Software Developer** with strong fundamentals in **Java and Web Technologies**
+- 💻 Focused on **Java & Full Stack Development**
 - 🌱 Currently learning **Spring & Spring Boot**
-- 🧩 Comfortable with **frontend, backend, database concepts**
-- ⚙️ Interested in building **real-world, scalable applications**
-- 🎯 Goal: Grow into a skilled **Java Full Stack Developer**
+- ⚙️ Comfortable with **Frontend + Backend + Database**
+- 🧩 Enjoy building **real-world web applications**
+- 🎯 Goal: Become a **strong Java Full Stack Developer**
 
 ---
 
 ### 🧰 Skills & Technologies
 
-**Languages**
-- Java, HTML, CSS, JavaScript  
-
-**Backend**
-- J2EE, Hibernate  
-- Learning: Spring, Spring Boot  
-
-**Frontend**
-- HTML, CSS, JavaScript, ReactJS  
-
-**Databases**
-- Oracle SQL, SQLite3  
-
-**Tools & Platforms**
-- Git, GitHub  
-- VS Code, Eclipse  
-- Windows, Linux  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,spring,hibernate,oracle,sqlite,git,github,vscode,eclipse,linux,windows" />
+</p>
 
 ---
 
 ### 📌 Projects
 
-#### 🏥 Medical Store Management System  
-**College Final Year Project**  
-**Duration:** Aug 2024 – April 2025  
-
-**Description:**  
-A full-stack web application developed as a college project to manage medical store operations such as inventory, billing, and customer & medicine records.
-
-**Technologies Used**
-- **Frontend:** HTML, CSS, JavaScript, ReactJS  
-- **Backend:** Django (Python)  
-- **Database:** SQLite3  
-- **API:** RESTful APIs  
-
-**Role & Responsibilities**
-- Developed the complete project independently  
-- Designed responsive frontend UI  
-- Implemented backend CRUD APIs  
-- Designed and managed database schema  
-- Tested and debugged application functionality  
-
----
-
-### 🎓 Education
-
-**B.Sc. in Information Technology**  
-University of Mumbai — **2025**  
-**CGPI:** 7.63  
-
-**H.S.C (12th)**  
-Samadiya High School & Junior College, Bhiwandi – Thane — **2022**  
-**Percentage:** 61.83%  
-
----
-
-### 📜 Certifications
-- JavaScript & React.js Bootcamp (7 Days) – **GDSC KIIT / DevTown**
-- Cyber Security Training (30 Hours) – **Curiospire**
-- GitHub Universe Watch Party & Codespaces – **Microsoft Learn Student Ambassador**
-- HTML Certificate – **SoloLearn**
+**🏥 Medical Store Management System**  
+- Full-stack college project for managing inventory, billing & records  
+- Built using **ReactJS + Django + SQLite3**  
+- Implemented CRUD APIs & responsive UI  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaimuzx78&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kaimuzx78&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaimuzx78&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaimuzx78&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
@@ -103,16 +53,21 @@ Samadiya High School & Junior College, Bhiwandi – Thane — **2022**
 ### 🪄 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimuzx78&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimuzx78&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 🎨 Hobbies & Interests
-- Reading tech blogs and articles  
-- Creating beginner-friendly tech content on **YouTube**  
-- Exploring and experimenting with new technologies  
+- 📚 Reading tech blogs & developer articles  
+- 🎥 Creating **beginner-friendly tech content on YouTube**  
+- 🧪 Experimenting with new tools & frameworks  
+- 🚀 Exploring modern web & backend technologies  
 
 ---
+
+<p align="center">
+  <i>"Write code that humans can understand, not just machines."</i>
+</p>
 
 <h3 align="center">⭐️ From <a href="https://github.com/kaimuzx78">Mansoori Kaeemuddin</a></h3>
