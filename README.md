@@ -5,7 +5,7 @@
   <a href="mailto:kaimuddin78652@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+  <a href="https://www.linkedin.com/in/mansoori-kaeemuddin-3708671a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/kaimuzx78">
@@ -35,7 +35,7 @@
 ### 📌 Projects
 
 **🏥 Medical Store Management System**  
-- Full-stack college project for managing inventory, billing & records  
+- Full-stack project for managing inventory, billing & records  
 - Built using **ReactJS + Django + SQLite3**  
 - Implemented CRUD APIs & responsive UI  
 
@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaimuzx78&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaimuzx78&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaimuzx78&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaimuzx78&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -53,14 +53,14 @@
 ### 🪄 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimuzx78&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaimuzx78&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🎨 Hobbies & Interests
 - 📚 Reading tech blogs & developer articles  
-- 🎥 Creating **beginner-friendly tech content on YouTube**  
+- 🎥 Creating **beginner-friendly tech content** on YouTube  
 - 🧪 Experimenting with new tools & frameworks  
 - 🚀 Exploring modern web & backend technologies  
 
