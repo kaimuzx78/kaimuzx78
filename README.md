@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Mansoori Kaeemuddin</h1>
-<h3 align="center">🚀 Aspiring Java Full Stack Developer</h3>
+<h3 align="center">🚀 Aspiring a Full Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:kaimuddin78652@gmail.com">
@@ -16,10 +16,9 @@
 ---
 
 ### 🧠 About Me
-- 💻 Focused on **Java & Full Stack Development**
-- 🌱 Currently learning **Spring & Spring Boot**
+- 💻 Focused on **Full Stack Development**
+- 🌱 Currently learning **Android, Spring & Spring Boot**
 - ⚙️ Comfortable with **Frontend + Backend + Database**
-- 🎯 Goal: Become a **strong Java Full Stack Developer**
 
 ---
 
